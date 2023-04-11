@@ -9,7 +9,7 @@
     "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
   },
   "dependencies": {
     "bootstrap": "^5.2.3",
